@@ -1,0 +1,40 @@
+1
+00:00:00,600 --> 00:00:03,510
+Salama. Cu tu ka seni camo co?
+Hello. How are you feeling?
+
+2
+00:00:03,610 --> 00:00:06,840
+Kemo pu ta ka puwe, sa ta ka pilo.
+My head hurts, and I have a fever.
+
+3
+00:00:06,940 --> 00:00:08,810
+Puwe ke kome pi temo co?
+When did the pain start?
+
+4
+00:00:08,910 --> 00:00:11,180
+Puwe ke kome pi solu kin pume.
+It started two days ago.
+
+5
+00:00:11,280 --> 00:00:15,390
+Puye ka ce tawa. Cu ku pinu suyu pulu, sa ku temu pulu.
+It's not a big problem. Drink lots of water, and sleep a lot.
+
+6
+00:00:15,490 --> 00:00:17,360
+Ca ta ka caye sanawe?
+Do I need medicine?
+
+7
+00:00:17,460 --> 00:00:20,450
+Ka. Cu ku tuma sanawe ti pi solulu.
+Yes. Take this medicine in the evening.
+
+8
+00:00:20,550 --> 00:00:24,740
+Tane, sanayawa! Cu ta ka kiwe so ta ko sana kuwi.
+Thank you, doctor! I hope I'll get well quickly.
+

@@ -1,0 +1,35 @@
+1
+00:00:00,600 --> 00:00:04,390
+Salama, sawi! Ca tu ka tene kiwawo sinu?
+Hello, friend! Do you have fresh fruit?
+
+2
+00:00:04,490 --> 00:00:09,080
+Ka! Cu kiwawo pu ta ka sinu, sa to ka pemu. Cu ku sile!
+Yes! My fruit is fresh and sweet. Take a look!
+
+3
+00:00:09,180 --> 00:00:11,610
+Peya pu kiwawo soluni ka sama co?
+What is the price of the yellow fruit?
+
+4
+00:00:11,710 --> 00:00:14,220
+Peya ka sama kin pa kiwawo ken.
+It's two for one fruit.
+
+5
+00:00:14,320 --> 00:00:17,870
+Ta ka cana kiwawo san. Ca tu ki tona tiyu tuye?
+I want five. Could you give me some bread too?
+
+6
+00:00:17,970 --> 00:00:22,720
+Ka. Cu peya pu sewa ka sama ken kin. Cu tane, sawi!
+Sure. The price of everything is twelve. Thank you, friend!
+
+7
+00:00:22,820 --> 00:00:25,890
+Tane! Cu tu ku tene solu poni!
+Thanks! Have a good day!
+

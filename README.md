@@ -14,7 +14,7 @@ A universal spoken and written language for humans and machines.
 
 15 sounds · one segmentation rule · zero irregularities · one parse or none
 
-[Specification](spec.md) · [Reference parser](parser.py) · [Quickstart](#quickstart)
+[Specification](spec.md) · [Reference parser](parser.py) · [Hear Palanu](#hear-palanu) · [Translations](TRANSLATIONS.md) · [Quickstart](#quickstart)
 
 </div>
 
@@ -40,6 +40,195 @@ It is designed to be easy to say, easy to hear, easy to write, and easy for a ma
 | Machine side | The grammar is a 22-rule PEG. The reference parser runs it directly, with one parse or none. There are 18 annotated samples and 18 negative tests. |
 | Vocabulary | 152 roots. The 39 most frequent are chosen so that no two differ by a single sound. 23 suffixes and phrasal compounding extend them, and 395 root slots are still free. |
 | Script | Romanization: 15 plain ASCII letters, one letter per sound, no digraphs. The optional native script, *Semanu*, builds each glyph from how the sound is made. |
+
+## Hear Palanu
+
+Five short conversations, recorded with stock Japanese-native voices from ElevenLabs. Japanese has the same open CV syllables and five-vowel space as Palanu, so it fits the language naturally. Each video shows the Palanu line with an English subtitle. Click a poster to watch, or open the audio. Every line parses with `parser.py`.
+
+Full side-by-side translations, interlinear glosses and a glossary of every word are in **[TRANSLATIONS.md](TRANSLATIONS.md)**.
+
+### 1. At the market
+
+<a href="dialogues/dialogue-1-market.mp4"><img src="dialogues/posters/dialogue-1-market.jpg" alt="Dialogue 1: At the market (video)" width="560"></a>
+
+▶ [Video (mp4)](dialogues/dialogue-1-market.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-1-market.mp3) · [Subtitles (srt)](dialogues/dialogue-1-market.srt) · 0:27 · A = Shopper, B = Fruit seller
+
+<details>
+<summary>Transcript</summary>
+
+**Shopper:** Salama, sawi! Ca tu ka tene kiwawo sinu?  
+*Hello, friend! Do you have fresh fruit?*
+
+**Fruit seller:** Ka! Cu kiwawo pu ta ka sinu, sa to ka pemu. Cu ku sile!  
+*Yes! My fruit is fresh and sweet. Take a look!*
+
+**Shopper:** Peya pu kiwawo soluni ka sama co?  
+*What is the price of the yellow fruit?*
+
+**Fruit seller:** Peya ka sama kin pa kiwawo ken.  
+*It's two for one fruit.*
+
+**Shopper:** Ta ka cana kiwawo san. Ca tu ki tona tiyu tuye?  
+*I want five. Could you give me some bread too?*
+
+**Fruit seller:** Ka. Cu peya pu sewa ka sama ken kin. Cu tane, sawi!  
+*Sure. The price of everything is twelve. Thank you, friend!*
+
+**Shopper:** Tane! Cu tu ku tene solu poni!  
+*Thanks! Have a good day!*
+
+</details>
+
+### 2. At the doctor's
+
+<a href="dialogues/dialogue-2-doctor.mp4"><img src="dialogues/posters/dialogue-2-doctor.jpg" alt="Dialogue 2: At the doctor's (video)" width="560"></a>
+
+▶ [Video (mp4)](dialogues/dialogue-2-doctor.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-2-doctor.mp3) · [Subtitles (srt)](dialogues/dialogue-2-doctor.srt) · 0:25 · A = Doctor, B = Patient
+
+<details>
+<summary>Transcript</summary>
+
+**Doctor:** Salama. Cu tu ka seni camo co?  
+*Hello. How are you feeling?*
+
+**Patient:** Kemo pu ta ka puwe, sa ta ka pilo.  
+*My head hurts, and I have a fever.*
+
+**Doctor:** Puwe ke kome pi temo co?  
+*When did the pain start?*
+
+**Patient:** Puwe ke kome pi solu kin pume.  
+*It started two days ago.*
+
+**Doctor:** Puye ka ce tawa. Cu ku pinu suyu pulu, sa ku temu pulu.  
+*It's not a big problem. Drink lots of water, and sleep a lot.*
+
+**Patient:** Ca ta ka caye sanawe?  
+*Do I need medicine?*
+
+**Doctor:** Ka. Cu ku tuma sanawe ti pi solulu.  
+*Yes. Take this medicine in the evening.*
+
+**Patient:** Tane, sanayawa! Cu ta ka kiwe so ta ko sana kuwi.  
+*Thank you, doctor! I hope I'll get well quickly.*
+
+</details>
+
+### 3. Two friends plan a trip
+
+<a href="dialogues/dialogue-3-trip.mp4"><img src="dialogues/posters/dialogue-3-trip.jpg" alt="Dialogue 3: Two friends plan a trip (video)" width="560"></a>
+
+▶ [Video (mp4)](dialogues/dialogue-3-trip.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-3-trip.mp3) · [Subtitles (srt)](dialogues/dialogue-3-trip.srt) · 0:30 · A = Tomas, B = Maria
+
+<details>
+<summary>Transcript</summary>
+
+**Tomas:** Salama, cun Malia cun! Ca tu ko pelo po ta pa sowa?  
+*Hi, Maria! Will you come with me to the sea?*
+
+**Maria:** Ka! Cu ta ka piya sowa. Cu tan ko pelo pi temo co?  
+*Yes! I love the sea. When will we go?*
+
+**Tomas:** Tan ki pelo pi solu sin pumeno.  
+*We could go in a week.*
+
+**Maria:** Ca tan ko pelo po pelowe se culewe?  
+*Will we go by car, or by plane?*
+
+**Tomas:** Culewe ka kuwi, su peya pu to ka tawa. Cu tan ku pelo po pelowe!  
+*The plane is fast, but it's expensive. Let's take the car!*
+
+**Maria:** Poni! Cu ta ko puna kula sa suyu.  
+*Great! I'll bring food and water.*
+
+**Tomas:** Cu tan ko kana pi camo!  
+*Then we'll sing on the road!*
+
+**Maria:** Cu pelo ti ko sama sulo. Tane, sawi!  
+*This trip will be beautiful. Thanks, friend!*
+
+</details>
+
+### 4. A tense moment at work
+
+<a href="dialogues/dialogue-4-apology.mp4"><img src="dialogues/posters/dialogue-4-apology.jpg" alt="Dialogue 4: A tense moment at work (video)" width="560"></a>
+
+▶ [Video (mp4)](dialogues/dialogue-4-apology.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-4-apology.mp3) · [Subtitles (srt)](dialogues/dialogue-4-apology.srt) · 0:32 · A = Coworker, B = Ana
+
+<details>
+<summary>Transcript</summary>
+
+**Coworker:** Cun Ana cun pun, pemiwo pu tu ke ce kome pa ta. Cu puye ka sama co?  
+*Ana, your report never reached me. What's the problem?*
+
+**Ana:** Ta ka seni ponino pen ti. Cu penawe pu ta ke tana.  
+*I feel terrible about this. My computer died.*
+
+**Coworker:** Kume ke kiyu. Cu te ke caye pemiwo pi solu ti.  
+*The boss was angry. She needed the report today.*
+
+**Ana:** Ta ka kono, sa tu ka tuli. Cu ta ke caye pala pa tu pume.  
+*I know, and you're right. I should have told you sooner.*
+
+**Coworker:** Ca tu ki kalo pemiwo sinu pi solulu ti?  
+*Could you make a new report by this evening?*
+
+**Ana:** Ka. Cu ta ko kalo to pi solulu ti. Cu ta ka tane tu pan so tu ke tewo.  
+*Yes. I'll have it done this evening. Thank you for waiting.*
+
+**Coworker:** Sala, sawi. Cu tan ka kuyu.  
+*It's all right, friend. We're a team.*
+
+</details>
+
+### 5. A cosmic talk show: stars, black holes and the expanding universe
+
+<a href="dialogues/dialogue-5-astrophysics.mp4"><img src="dialogues/posters/dialogue-5-astrophysics.jpg" alt="Dialogue 5: A cosmic talk show: stars, black holes and the expanding universe (video)" width="560"></a>
+
+▶ [Video (mp4)](dialogues/dialogue-5-astrophysics.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-5-astrophysics.mp3) · [Subtitles (srt)](dialogues/dialogue-5-astrophysics.srt) · 1:19 · A = Host, B = Co-host
+
+<details>
+<summary>Transcript</summary>
+
+**Host:** Salama, somon pu tela! Cu pi solu ti pun tan ko palayu pen seyon sa sewanu.  
+*Greetings, people of Earth! Today we're talking about the stars and the universe.*
+
+**Co-host:** Ta ka kono kowa kan pen seyon. Cu seyo ka sama co?  
+*I know absolutely nothing about stars. So what is a star?*
+
+**Host:** Seyo ka sama pilo tawama pi sela suma. Cu pi kole pu to pun seyo ka tali cun atom cun tawano pa cun atom cun tawamo.  
+*A star is a gigantic fire in the night sky. Deep in its heart, the star fuses small atoms into bigger atoms.*
+
+**Co-host:** Cu cun atom cun tawamo ke pelo pa tolo co?  
+*So where did those bigger atoms go?*
+
+**Host:** Pi so seyo tawa ke tana pun to ke pelema, sa cun atom cun ke pelo pa sewanu. Cu pelu pu suyu piloni pu tu ke kome pe seyo! Cu tan sewa ka sama seyonan. Cu ku pena pen to!  
+*When a big star died, it exploded, and its atoms flew out into the universe. The iron in your blood came from a star! We are all made of star pieces. Think about that!*
+
+**Co-host:** Cowi! Cu ta ka sama seyo! Cu ta ke kono to pume. Cu pune sumani ka sama co?  
+*Whoa! So I'm a star! I knew it all along. And what's a black hole?*
+
+**Host:** Pi so seyo tawama ka tana pun to ki sama pune sumani. Cu pole puma pu to ka tawama, sa kolo ka ce pole pelo pe to.  
+*When a giant star dies, it can become a black hole. Its gravity is so enormous that not even light can escape it.*
+
+**Co-host:** Ca pune sumani ki tuma ta? Cu ta ka kowe!  
+*Could a black hole grab me? I'm scared!*
+
+**Host:** Ka ce, sawi. Cu to ka tayoma pe tan. Cu pole puma ka kuluya tolo, sa kolo ka tiye tolo kuluyo.  
+*No, my friend. It's very far from us. Gravity bends space itself, and light follows that bent space.*
+
+**Co-host:** Ta ke pena so kolo ka pelo pi tali sola!  
+*I thought light only travels in a straight line!*
+
+**Host:** Cu sewanu ka tawale! Cu pi so tu ka sile seyo tayo pun tu ka sile kolo so co ke pelo kulu kolo ken kan kan kan. Cu tu ka sile temo pume!  
+*And the universe is expanding! When you look at a distant star, you see light that traveled a thousand light-years. You are looking into the past!*
+
+**Co-host:** Sewanu ka tawale, sa tanu pu ta ka tawale tuye, pan kula pulu! Tane, sawi!  
+*The universe is expanding, and so is my waistline, thanks to all the food! Thanks, friend!*
+
+</details>
+
+<sub>Voices: Hdo and Madoka (dialogues 1–4), AiMoTo and kaori (dialogue 5), all stock ElevenLabs voices; no real person's voice was cloned. Palanu was respelled in katakana for the speech model (one kana per syllable, `c` → チ-row, final `n` → ン); the text above is the canonical spelling. An earlier Spanish-voiced take is kept in [`dialogues/es/`](dialogues/es/). Notes on the recordings are in [`dialogues/README.md`](dialogues/README.md).</sub>
 
 ## The 15 sounds
 
