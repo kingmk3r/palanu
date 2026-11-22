@@ -19,7 +19,7 @@ Most misses in dialogue 1 are devoiced or dropped `u` in short particles (`cu`, 
 
 ## 1. At the market
 
-Audio: [dialogue-1-market.mp3](dialogue-1-market.mp3) · Video: [dialogue-1-market.mp4](dialogue-1-market.mp4) · Subtitles: [dialogue-1-market.srt](dialogue-1-market.srt). Speakers: A = Shopper (male), B = Fruit seller (female).
+Audio: [dialogue-1-market.mp3](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-1-market.mp3) · Video: [dialogue-1-market.mp4](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-1-market.mp4) · Subtitles: [dialogue-1-market.srt](dialogue-1-market.srt). Speakers: A = Shopper (male), B = Fruit seller (female).
 
 **A:** Salama, sawi! Ca tu ka tene kiwawo sinu?  
 *Hello, friend! Do you have fresh fruit?*
@@ -46,7 +46,7 @@ Audio: [dialogue-1-market.mp3](dialogue-1-market.mp3) · Video: [dialogue-1-mark
 
 ## 2. At the doctor's
 
-Audio: [dialogue-2-doctor.mp3](dialogue-2-doctor.mp3) · Video: [dialogue-2-doctor.mp4](dialogue-2-doctor.mp4) · Subtitles: [dialogue-2-doctor.srt](dialogue-2-doctor.srt). Speakers: A = Doctor (male), B = Patient (female).
+Audio: [dialogue-2-doctor.mp3](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-2-doctor.mp3) · Video: [dialogue-2-doctor.mp4](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-2-doctor.mp4) · Subtitles: [dialogue-2-doctor.srt](dialogue-2-doctor.srt). Speakers: A = Doctor (male), B = Patient (female).
 
 **A:** Salama. Cu tu ka seni camo co?  
 *Hello. How are you feeling?*
@@ -76,7 +76,7 @@ Audio: [dialogue-2-doctor.mp3](dialogue-2-doctor.mp3) · Video: [dialogue-2-doct
 
 ## 3. Two friends plan a trip
 
-Audio: [dialogue-3-trip.mp3](dialogue-3-trip.mp3) · Video: [dialogue-3-trip.mp4](dialogue-3-trip.mp4) · Subtitles: [dialogue-3-trip.srt](dialogue-3-trip.srt). Speakers: A = Tomas (male), B = Maria / Malia (female).
+Audio: [dialogue-3-trip.mp3](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-3-trip.mp3) · Video: [dialogue-3-trip.mp4](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-3-trip.mp4) · Subtitles: [dialogue-3-trip.srt](dialogue-3-trip.srt). Speakers: A = Tomas (male), B = Maria / Malia (female).
 
 **A:** Salama, cun Malia cun! Ca tu ko pelo po ta pa sowa?  
 *Hi, Maria! Will you come with me to the sea?*
@@ -106,7 +106,7 @@ Audio: [dialogue-3-trip.mp3](dialogue-3-trip.mp3) · Video: [dialogue-3-trip.mp4
 
 ## 4. A tense moment at work
 
-Audio: [dialogue-4-apology.mp3](dialogue-4-apology.mp3) · Video: [dialogue-4-apology.mp4](dialogue-4-apology.mp4) · Subtitles: [dialogue-4-apology.srt](dialogue-4-apology.srt). Speakers: A = Coworker (male), B = Ana (female).
+Audio: [dialogue-4-apology.mp3](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-4-apology.mp3) · Video: [dialogue-4-apology.mp4](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-4-apology.mp4) · Subtitles: [dialogue-4-apology.srt](dialogue-4-apology.srt). Speakers: A = Coworker (male), B = Ana (female).
 
 **A:** Cun Ana cun pun, pemiwo pu tu ke ce kome pa ta. Cu puye ka sama co?  
 *Ana, your report never reached me. What's the problem?*
@@ -133,7 +133,7 @@ Audio: [dialogue-4-apology.mp3](dialogue-4-apology.mp3) · Video: [dialogue-4-ap
 
 ## 5. A cosmic talk show: stars, black holes and the expanding universe
 
-Audio: [dialogue-5-astrophysics.mp3](dialogue-5-astrophysics.mp3) · Video: [dialogue-5-astrophysics.mp4](dialogue-5-astrophysics.mp4) · Subtitles: [dialogue-5-astrophysics.srt](dialogue-5-astrophysics.srt). Speakers: A = Host, an excited astrophysicist (male), B = Co-host, curious and funny (female).
+Audio: [dialogue-5-astrophysics.mp3](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-5-astrophysics.mp3) · Video: [dialogue-5-astrophysics.mp4](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-5-astrophysics.mp4) · Subtitles: [dialogue-5-astrophysics.srt](dialogue-5-astrophysics.srt). Speakers: A = Host, an excited astrophysicist (male), B = Co-host, curious and funny (female).
 
 **A:** Salama, somon pu tela! Cu pi solu ti pun tan ko palayu pen seyon sa sewanu.  
 *Greetings, people of Earth! Today we're talking about the stars and the universe.*

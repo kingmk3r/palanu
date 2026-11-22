@@ -43,15 +43,15 @@ It is designed to be easy to say, easy to hear, easy to write, and easy for a ma
 
 ## Hear Palanu
 
-Five short conversations, recorded with stock Japanese-native voices from ElevenLabs. Japanese has the same open CV syllables and five-vowel space as Palanu, so it fits the language naturally. Each video shows the Palanu line with an English subtitle. Click a poster to watch, or open the audio. Every line parses with `parser.py`.
+Five short conversations, recorded with stock Japanese-native voices from ElevenLabs. Japanese has the same open CV syllables and five-vowel space as Palanu, so it fits the language naturally. Each video shows the Palanu line with an English subtitle. Click a poster to watch in your browser, or open the audio. The media links play through the jsDelivr CDN, which serves this repo's files with the right content type (GitHub itself only offers the mp4s as downloads); the files themselves live in [`dialogues/`](dialogues/). Every line parses with `parser.py`.
 
 Full side-by-side translations, interlinear glosses and a glossary of every word are in **[TRANSLATIONS.md](TRANSLATIONS.md)**.
 
 ### 1. At the market
 
-<a href="dialogues/dialogue-1-market.mp4"><img src="dialogues/posters/dialogue-1-market.jpg" alt="Dialogue 1: At the market (video)" width="560"></a>
+<a href="https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-1-market.mp4"><img src="dialogues/posters/dialogue-1-market.jpg" alt="Dialogue 1: At the market (video)" width="560"></a>
 
-▶ [Video (mp4)](dialogues/dialogue-1-market.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-1-market.mp3) · [Subtitles (srt)](dialogues/dialogue-1-market.srt) · 0:27 · A = Shopper, B = Fruit seller
+▶ [Video (mp4)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-1-market.mp4) · 🎧 [Audio (mp3)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-1-market.mp3) · [Subtitles (srt)](dialogues/dialogue-1-market.srt) · 0:27 · A = Shopper, B = Fruit seller
 
 <details>
 <summary>Transcript</summary>
@@ -81,9 +81,9 @@ Full side-by-side translations, interlinear glosses and a glossary of every word
 
 ### 2. At the doctor's
 
-<a href="dialogues/dialogue-2-doctor.mp4"><img src="dialogues/posters/dialogue-2-doctor.jpg" alt="Dialogue 2: At the doctor's (video)" width="560"></a>
+<a href="https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-2-doctor.mp4"><img src="dialogues/posters/dialogue-2-doctor.jpg" alt="Dialogue 2: At the doctor's (video)" width="560"></a>
 
-▶ [Video (mp4)](dialogues/dialogue-2-doctor.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-2-doctor.mp3) · [Subtitles (srt)](dialogues/dialogue-2-doctor.srt) · 0:25 · A = Doctor, B = Patient
+▶ [Video (mp4)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-2-doctor.mp4) · 🎧 [Audio (mp3)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-2-doctor.mp3) · [Subtitles (srt)](dialogues/dialogue-2-doctor.srt) · 0:25 · A = Doctor, B = Patient
 
 <details>
 <summary>Transcript</summary>
@@ -116,9 +116,9 @@ Full side-by-side translations, interlinear glosses and a glossary of every word
 
 ### 3. Two friends plan a trip
 
-<a href="dialogues/dialogue-3-trip.mp4"><img src="dialogues/posters/dialogue-3-trip.jpg" alt="Dialogue 3: Two friends plan a trip (video)" width="560"></a>
+<a href="https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-3-trip.mp4"><img src="dialogues/posters/dialogue-3-trip.jpg" alt="Dialogue 3: Two friends plan a trip (video)" width="560"></a>
 
-▶ [Video (mp4)](dialogues/dialogue-3-trip.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-3-trip.mp3) · [Subtitles (srt)](dialogues/dialogue-3-trip.srt) · 0:30 · A = Tomas, B = Maria
+▶ [Video (mp4)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-3-trip.mp4) · 🎧 [Audio (mp3)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-3-trip.mp3) · [Subtitles (srt)](dialogues/dialogue-3-trip.srt) · 0:30 · A = Tomas, B = Maria
 
 <details>
 <summary>Transcript</summary>
@@ -151,9 +151,9 @@ Full side-by-side translations, interlinear glosses and a glossary of every word
 
 ### 4. A tense moment at work
 
-<a href="dialogues/dialogue-4-apology.mp4"><img src="dialogues/posters/dialogue-4-apology.jpg" alt="Dialogue 4: A tense moment at work (video)" width="560"></a>
+<a href="https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-4-apology.mp4"><img src="dialogues/posters/dialogue-4-apology.jpg" alt="Dialogue 4: A tense moment at work (video)" width="560"></a>
 
-▶ [Video (mp4)](dialogues/dialogue-4-apology.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-4-apology.mp3) · [Subtitles (srt)](dialogues/dialogue-4-apology.srt) · 0:32 · A = Coworker, B = Ana
+▶ [Video (mp4)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-4-apology.mp4) · 🎧 [Audio (mp3)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-4-apology.mp3) · [Subtitles (srt)](dialogues/dialogue-4-apology.srt) · 0:32 · A = Coworker, B = Ana
 
 <details>
 <summary>Transcript</summary>
@@ -183,9 +183,9 @@ Full side-by-side translations, interlinear glosses and a glossary of every word
 
 ### 5. A cosmic talk show: stars, black holes and the expanding universe
 
-<a href="dialogues/dialogue-5-astrophysics.mp4"><img src="dialogues/posters/dialogue-5-astrophysics.jpg" alt="Dialogue 5: A cosmic talk show: stars, black holes and the expanding universe (video)" width="560"></a>
+<a href="https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-5-astrophysics.mp4"><img src="dialogues/posters/dialogue-5-astrophysics.jpg" alt="Dialogue 5: A cosmic talk show: stars, black holes and the expanding universe (video)" width="560"></a>
 
-▶ [Video (mp4)](dialogues/dialogue-5-astrophysics.mp4) · 🎧 [Audio (mp3)](dialogues/dialogue-5-astrophysics.mp3) · [Subtitles (srt)](dialogues/dialogue-5-astrophysics.srt) · 1:19 · A = Host, B = Co-host
+▶ [Video (mp4)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-5-astrophysics.mp4) · 🎧 [Audio (mp3)](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-5-astrophysics.mp3) · [Subtitles (srt)](dialogues/dialogue-5-astrophysics.srt) · 1:19 · A = Host, B = Co-host
 
 <details>
 <summary>Transcript</summary>

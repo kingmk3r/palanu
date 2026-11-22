@@ -25,7 +25,7 @@ Every Palanu line below parses with the reference parser (`python3 parser.py "<l
 ## 1. At the market
 
 *A shopper buys fruit and bread from a stall.*  
-**A** = Shopper · **B** = Fruit seller · [▶ video](dialogues/dialogue-1-market.mp4) · [audio](dialogues/dialogue-1-market.mp3) · [subtitles](dialogues/dialogue-1-market.srt)
+**A** = Shopper · **B** = Fruit seller · [▶ video](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-1-market.mp4) · [audio](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-1-market.mp3) · [subtitles](dialogues/dialogue-1-market.srt)
 
 | # | | Palanu | English |
 |---:|:--|:--|:--|
@@ -40,7 +40,7 @@ Every Palanu line below parses with the reference parser (`python3 parser.py "<l
 ## 2. At the doctor's
 
 *A patient with a headache and fever sees the doctor.*  
-**A** = Doctor · **B** = Patient · [▶ video](dialogues/dialogue-2-doctor.mp4) · [audio](dialogues/dialogue-2-doctor.mp3) · [subtitles](dialogues/dialogue-2-doctor.srt)
+**A** = Doctor · **B** = Patient · [▶ video](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-2-doctor.mp4) · [audio](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-2-doctor.mp3) · [subtitles](dialogues/dialogue-2-doctor.srt)
 
 | # | | Palanu | English |
 |---:|:--|:--|:--|
@@ -56,7 +56,7 @@ Every Palanu line below parses with the reference parser (`python3 parser.py "<l
 ## 3. Two friends plan a trip
 
 *Two friends plan a trip to the sea.*  
-**A** = Tomas · **B** = Maria · [▶ video](dialogues/dialogue-3-trip.mp4) · [audio](dialogues/dialogue-3-trip.mp3) · [subtitles](dialogues/dialogue-3-trip.srt)
+**A** = Tomas · **B** = Maria · [▶ video](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-3-trip.mp4) · [audio](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-3-trip.mp3) · [subtitles](dialogues/dialogue-3-trip.srt)
 
 | # | | Palanu | English |
 |---:|:--|:--|:--|
@@ -72,7 +72,7 @@ Every Palanu line below parses with the reference parser (`python3 parser.py "<l
 ## 4. A tense moment at work
 
 *A missing report, an apology, and a fix.*  
-**A** = Coworker · **B** = Ana · [▶ video](dialogues/dialogue-4-apology.mp4) · [audio](dialogues/dialogue-4-apology.mp3) · [subtitles](dialogues/dialogue-4-apology.srt)
+**A** = Coworker · **B** = Ana · [▶ video](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-4-apology.mp4) · [audio](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-4-apology.mp3) · [subtitles](dialogues/dialogue-4-apology.srt)
 
 | # | | Palanu | English |
 |---:|:--|:--|:--|
@@ -87,7 +87,7 @@ Every Palanu line below parses with the reference parser (`python3 parser.py "<l
 ## 5. A cosmic talk show: stars, black holes and the expanding universe
 
 *A talk-show host who is an astrophysicist, and a curious, funny co-host, talk about stars, black holes and the expanding universe.*  
-**A** = Host · **B** = Co-host · [▶ video](dialogues/dialogue-5-astrophysics.mp4) · [audio](dialogues/dialogue-5-astrophysics.mp3) · [subtitles](dialogues/dialogue-5-astrophysics.srt)
+**A** = Host · **B** = Co-host · [▶ video](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-5-astrophysics.mp4) · [audio](https://cdn.jsdelivr.net/gh/kingmk3r/palanu@main/dialogues/dialogue-5-astrophysics.mp3) · [subtitles](dialogues/dialogue-5-astrophysics.srt)
 
 | # | | Palanu | English |
 |---:|:--|:--|:--|
